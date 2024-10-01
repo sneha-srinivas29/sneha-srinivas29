@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sneha.hs20@iiits.in**
 
-- 📄 Know about my experiences [Currently working as Software enginner In Ojas_IT](Currently working as Software enginner In Ojas_IT)
+- 📄 Know about my experiences Currently working as Software enginner In Ojas_IT
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
