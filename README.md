@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SNEHA HS</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-srinivas29&label=Profile%20views&color=0e75b6&style=flat" alt="sneha-srinivas29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-srinivas29&label=Profile%20views&color=0e75b6&style=flat"  h-10 w-10 alt="sneha-srinivas29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneha-srinivas29" alt="sneha-srinivas29" /></a> </p>
 <div style="text-align: right; margin-left: 50px; margin-right: 50px;">
