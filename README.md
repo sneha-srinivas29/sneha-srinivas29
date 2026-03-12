@@ -31,7 +31,7 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 <br/>
 
@@ -39,11 +39,11 @@
 <tr>
 <td width="55%" valign="top">
 
-### 👩‍💻 Who Am I?
 
-> *"Code is not just logic — it's craftsmanship."*
 
-Hi, I'm **Sneha HS** — a passionate Software Engineer from 🇮🇳 India, driven by clean code, impactful products, and the exciting world of AI.
+
+
+Hi, I'm **Sneha Srinivas** — a passionate Software Engineer from India, driven by clean code, impactful products, and the exciting world of AI.
 
 &nbsp;&nbsp;📍 **Location** &nbsp;&nbsp; India  
 &nbsp;&nbsp;🎓 **Education** &nbsp;&nbsp; B.Tech · IIIT Sri City  
@@ -58,25 +58,22 @@ Hi, I'm **Sneha HS** — a passionate Software Engineer from 🇮🇳 India, dri
 ### 🗺️ Career Journey
 
 ```
-🌿 Samunnati          ← Current
-   └─ Software Engineer
+🌿 Currently working as Software Engineer at Samunnati
 
-🏢 Ojas_IT            ← Previous
-   └─ Software Engineer
+🏢 Ex-Software Engineer at Ojas innovative technologies 
 
-🎓 IIIT Sri City      ← Education
-   └─ B.Tech Graduate
+🎓 Computer Science graduate from IIIT SRICITY
 ```
 
 </td>
 </tr>
 </table>
 
-### ⚡ What I'm Up To
+
 
 <div>
 
-| 🚀 | Currently building fintech solutions at **[Samunnati](https://samunnati.com)** |
+| Currently building fintech solutions at **[Samunnati](https://samunnati.com)** |
 |---|---|
 | 🌱 | Learning **Java Core, Spring Boot & OpenAI Integration** |
 | 🛠️ | All my projects → **[portofolio-nine-gules.vercel.app](https://portofolio-nine-gules.vercel.app/)** |
@@ -92,30 +89,19 @@ Hi, I'm **Sneha HS** — a passionate Software Engineer from 🇮🇳 India, dri
 ![](https://img.shields.io/badge/IIIT-Sri%20City%20Alumni-FF6F00?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 </div>
+##  Tech Stack
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sneha-srinivas29&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
+###  Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,ts,js,html,css,sass,tailwind,bootstrap,redux,figma&perline=13" />
 </p>
 
-### ⚙️ Backend & Databases
+###  Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,flask,graphql,mongodb,mysql,firebase,docker&perline=11" />
 </p>
 
-### 🤖 AI / ML / Data
+###  AI / ML / Data
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=10" />
   &nbsp;
@@ -126,14 +112,14 @@ Hi, I'm **Sneha HS** — a passionate Software Engineer from 🇮🇳 India, dri
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
-### 🧰 Tools & Platforms
+###  Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,gcp,postman,webpack,babel,vscode&perline=10" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sneha-srinivas29&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=764ba2&icon_color=667eea" />
@@ -147,7 +133,7 @@ Hi, I'm **Sneha HS** — a passionate Software Engineer from 🇮🇳 India, dri
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sneha-srinivas29&theme=github&hide_border=true&area=true&color=764ba2&line=667eea&point=764ba2" />
@@ -160,6 +146,6 @@ Hi, I'm **Sneha HS** — a passionate Software Engineer from 🇮🇳 India, dri
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
 
-<sub>⭐ If you find my work interesting, consider starring some repos! It means a lot 😊</sub>
+<sub> If you find my work interesting, consider starring some repos! It means a lot 😊</sub>
 
 </div>
