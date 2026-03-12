@@ -31,15 +31,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneha-srinivas29&show_icons=true&locale=en" alt="sneha-srinivas29" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-srinivas29&" alt="sneha-srinivas29" /></p> -->
-<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-srinivas29&" alt="sneha-srinivas29" /></p> --> <div align="center">
 
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sneha%20HS&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&fontColor=ffffff&descColor=a8d8ea&animation=fadeIn" />
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&lines=Passionate+Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%7C+React+%7C+Spring+Boot;Exploring+AI+%26+OpenAI+Integration+%F0%9F%A4%96;Building+Impactful+Products+%40+Ojas_IT+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&lines=Passionate+Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%7C+React+%7C+Spring+Boot;Exploring+AI+%26+OpenAI+Integration+%F0%9F%A4%96;Software+Engineer+%40+Samunnati+%F0%9F%8C%BF;IIIT+Sri+City+Graduate+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -56,8 +55,8 @@
     <img src="https://img.shields.io/badge/Email-sneha.hs20%40iiits.in-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://sneha-srinivas-portololio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-38B2AC?style=flat-square&logo=netlify&logoColor=white" />
+  <a href="https://portofolio-nine-gules.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-38B2AC?style=flat-square&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -70,19 +69,30 @@
 ```yaml
 name       : Sneha HS
 location   : India 🇮🇳
-role       : Software Engineer @ Ojas_IT
-education  : IIIT Sri City (iiits.in)
+role       : Software Engineer @ Samunnati
+education  : B.Tech — IIIT Sri City (iiits.in)
 focus      : Full Stack Development | AI Integration
 contact    : sneha.hs20@iiits.in
+portfolio  : https://portofolio-nine-gules.vercel.app/
 ```
 
 > 💡 *"Code is not just logic — it's craftsmanship."*
 
-- 🔭 Currently working as a **Software Engineer at Ojas_IT**
-- 🌱 Actively learning **Java Core, Spring Boot, OpenAI & AI Integration**
-- 🛠️ All projects live at my **[Portfolio →](https://sneha-srinivas-portololio.netlify.app/)**
+### 🗺️ Career Journey
+
+| 🏢 Company | 💼 Role | 📅 Period |
+|:---|:---|:---|
+| **Samunnati** 🌿 | Software Engineer | Current |
+| **Ojas_IT** | Software Engineer | Previous |
+| **IIIT Sri City** 🎓 | B.Tech Graduate | Alumni |
+
+### 🔥 Right Now
+
+- 🚀 Currently building impactful solutions as **Software Engineer @ [Samunnati](https://samunnati.com/)**
+- 🌱 Deepening expertise in **Java Core, Spring Boot, OpenAI & AI Integration**
+- 🛠️ Explore all my work at **[portofolio-nine-gules.vercel.app →](https://portofolio-nine-gules.vercel.app/)**
 - 💬 Ask me about **React, Node.js, Spring Boot, Python, or ML**
-- 📫 Reach me at **sneha.hs20@iiits.in**
+- 📫 Reach me at **[sneha.hs20@iiits.in](mailto:sneha.hs20@iiits.in)**
 
 ---
 
