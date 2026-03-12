@@ -50,7 +50,7 @@ Hi, I'm **Sneha Srinivas** — a passionate Software Engineer from India, driven
 &nbsp;&nbsp;💼 **Current Role** &nbsp;&nbsp; Software Engineer @ Samunnati  
 &nbsp;&nbsp;🧠 **Focus** &nbsp;&nbsp; Full Stack · AI Integration  
 &nbsp;&nbsp;📧 **Email** &nbsp;&nbsp; sneha.hs20@iiits.in  
-&nbsp;&nbsp;🌐 **Portfolio** &nbsp;&nbsp; [Visit Here →](https://portofolio-nine-gules.vercel.app/)
+&nbsp;&nbsp;🌐 **Portfolio** &nbsp;&nbsp; [Visit Here →]((https://portofolio-ccl3hqeai-sneha-srinivas29s-projects.vercel.app/))
 
 </td>
 <td width="45%" valign="top">
