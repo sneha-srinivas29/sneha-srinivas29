@@ -89,7 +89,7 @@ Hi, I'm **Sneha Srinivas** — a passionate Software Engineer from India, driven
 ![](https://img.shields.io/badge/IIIT-Sri%20City%20Alumni-FF6F00?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 </div>
-##  Tech Stack
+
 
 ###  Frontend
 <p>
