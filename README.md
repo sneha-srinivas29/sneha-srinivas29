@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SNEHA HS</h1>
+<!-- <h1 align="center">Hi 👋, I'm SNEHA HS</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-srinivas29&label=Profile%20views&color=0e75b6&style=flat"  h-10 w-10 alt="sneha-srinivas29" /> </p>
@@ -31,4 +31,126 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneha-srinivas29&show_icons=true&locale=en" alt="sneha-srinivas29" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-srinivas29&" alt="sneha-srinivas29" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-srinivas29&" alt="sneha-srinivas29" /></p> -->
+<div align="center">
+
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sneha%20HS&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&fontColor=ffffff&descColor=a8d8ea&animation=fadeIn" />
+
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&lines=Passionate+Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%7C+React+%7C+Spring+Boot;Exploring+AI+%26+OpenAI+Integration+%F0%9F%A4%96;Building+Impactful+Products+%40+Ojas_IT+%F0%9F%92%BC" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Socials -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=sneha-srinivas29&label=Profile+Views&color=0e7490&style=flat-square" alt="Profile views" />
+  &nbsp;
+  <a href="https://linkedin.com/in/sneha-hs">
+    <img src="https://img.shields.io/badge/LinkedIn-Sneha%20HS-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:sneha.hs20@iiits.in">
+    <img src="https://img.shields.io/badge/Email-sneha.hs20%40iiits.in-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://sneha-srinivas-portololio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-38B2AC?style=flat-square&logo=netlify&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🧭 About Me
+
+```yaml
+name       : Sneha HS
+location   : India 🇮🇳
+role       : Software Engineer @ Ojas_IT
+education  : IIIT Sri City (iiits.in)
+focus      : Full Stack Development | AI Integration
+contact    : sneha.hs20@iiits.in
+```
+
+> 💡 *"Code is not just logic — it's craftsmanship."*
+
+- 🔭 Currently working as a **Software Engineer at Ojas_IT**
+- 🌱 Actively learning **Java Core, Spring Boot, OpenAI & AI Integration**
+- 🛠️ All projects live at my **[Portfolio →](https://sneha-srinivas-portololio.netlify.app/)**
+- 💬 Ask me about **React, Node.js, Spring Boot, Python, or ML**
+- 📫 Reach me at **sneha.hs20@iiits.in**
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sneha-srinivas29&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,ts,js,html,css,sass,tailwind,bootstrap,redux,figma&perline=13" />
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,flask,graphql,mongodb,mysql,firebase,docker&perline=11" />
+</p>
+
+### 🤖 AI / ML / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&perline=10" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gcp,postman,webpack,babel,vscode&perline=10" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sneha-srinivas29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-srinivas29&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-srinivas29&theme=algolia&hide_border=true" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sneha-srinivas29&theme=react-dark&hide_border=true&area=true" />
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+
+<sub>⭐ If you find my work interesting, consider starring some repos! It means a lot 😊</sub>
+
+</div>
