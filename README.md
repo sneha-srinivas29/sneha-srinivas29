@@ -1,44 +1,11 @@
-<!-- <h1 align="center">Hi 👋, I'm SNEHA HS</h1>
-<h3 align="center">A passionate Software engineer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sneha-srinivas29&label=Profile%20views&color=0e75b6&style=flat"  h-10 w-10 alt="sneha-srinivas29" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneha-srinivas29" alt="sneha-srinivas29" /></a> </p>
-<div style="text-align: right; margin-left: 50px; margin-right: 50px;">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width="400" height="350" style="vertical-align: top;" />
-</div>
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Javacore ,Springboot , Open ai ,AI Integration**
-
-- 👨‍💻 All of my projects are available at [https://sneha-srinivas-portololio.netlify.app/](https://sneha-srinivas-portololio.netlify.app/)
-
-- 📫 How to reach me **sneha.hs20@iiits.in**
-
-- 📄 Know about my experiences Currently working as Software enginner In Ojas_IT
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sneha hs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha hs" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneha-srinivas29&show_icons=true&locale=en&layout=compact" alt="sneha-srinivas29" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneha-srinivas29&show_icons=true&locale=en" alt="sneha-srinivas29" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-srinivas29&" alt="sneha-srinivas29" /></p> --> <div align="center">
+<div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Sneha%20HS&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&fontColor=ffffff&descColor=a8d8ea&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sneha%20HS&fontSize=60&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&fontColor=ffffff&descColor=f0e6ff&animation=fadeIn" />
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&lines=Passionate+Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%7C+React+%7C+Spring+Boot;Exploring+AI+%26+OpenAI+Integration+%F0%9F%A4%96;Software+Engineer+%40+Samunnati+%F0%9F%8C%BF;IIIT+Sri+City+Graduate+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=764ba2&center=true&vCenter=true&random=false&width=650&lines=Passionate+Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%7C+React+%7C+Spring+Boot;Exploring+AI+%26+OpenAI+Integration+%F0%9F%A4%96;Software+Engineer+%40+Samunnati+%F0%9F%8C%BF;IIIT+Sri+City+Graduate+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -66,40 +33,72 @@
 
 ## 🧭 About Me
 
-```yaml
-name       : Sneha HS
-location   : India 🇮🇳
-role       : Software Engineer @ Samunnati
-education  : B.Tech — IIIT Sri City (iiits.in)
-focus      : Full Stack Development | AI Integration
-contact    : sneha.hs20@iiits.in
-portfolio  : https://portofolio-nine-gules.vercel.app/
-```
+<br/>
 
-> 💡 *"Code is not just logic — it's craftsmanship."*
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 👩‍💻 Who Am I?
+
+> *"Code is not just logic — it's craftsmanship."*
+
+Hi, I'm **Sneha HS** — a passionate Software Engineer from 🇮🇳 India, driven by clean code, impactful products, and the exciting world of AI.
+
+&nbsp;&nbsp;📍 **Location** &nbsp;&nbsp; India  
+&nbsp;&nbsp;🎓 **Education** &nbsp;&nbsp; B.Tech · IIIT Sri City  
+&nbsp;&nbsp;💼 **Current Role** &nbsp;&nbsp; Software Engineer @ Samunnati  
+&nbsp;&nbsp;🧠 **Focus** &nbsp;&nbsp; Full Stack · AI Integration  
+&nbsp;&nbsp;📧 **Email** &nbsp;&nbsp; sneha.hs20@iiits.in  
+&nbsp;&nbsp;🌐 **Portfolio** &nbsp;&nbsp; [Visit Here →](https://portofolio-nine-gules.vercel.app/)
+
+</td>
+<td width="45%" valign="top">
 
 ### 🗺️ Career Journey
 
-| 🏢 Company | 💼 Role | 📅 Period |
-|:---|:---|:---|
-| **Samunnati** 🌿 | Software Engineer | Current |
-| **Ojas_IT** | Software Engineer | Previous |
-| **IIIT Sri City** 🎓 | B.Tech Graduate | Alumni |
+```
+🌿 Samunnati          ← Current
+   └─ Software Engineer
 
-### 🔥 Right Now
+🏢 Ojas_IT            ← Previous
+   └─ Software Engineer
 
-- 🚀 Currently building impactful solutions as **Software Engineer @ [Samunnati](https://samunnati.com/)**
-- 🌱 Deepening expertise in **Java Core, Spring Boot, OpenAI & AI Integration**
-- 🛠️ Explore all my work at **[portofolio-nine-gules.vercel.app →](https://portofolio-nine-gules.vercel.app/)**
-- 💬 Ask me about **React, Node.js, Spring Boot, Python, or ML**
-- 📫 Reach me at **[sneha.hs20@iiits.in](mailto:sneha.hs20@iiits.in)**
+🎓 IIIT Sri City      ← Education
+   └─ B.Tech Graduate
+```
+
+</td>
+</tr>
+</table>
+
+### ⚡ What I'm Up To
+
+<div>
+
+| 🚀 | Currently building fintech solutions at **[Samunnati](https://samunnati.com)** |
+|---|---|
+| 🌱 | Learning **Java Core, Spring Boot & OpenAI Integration** |
+| 🛠️ | All my projects → **[portofolio-nine-gules.vercel.app](https://portofolio-nine-gules.vercel.app/)** |
+| 💬 | Ask me about **React · Node.js · Spring Boot · Python · ML** |
+| 📫 | Reach me at **[sneha.hs20@iiits.in](mailto:sneha.hs20@iiits.in)** |
+
+</div>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Open%20To-Collaborations-4CAF50?style=for-the-badge&logo=handshake&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Currently%20At-Samunnati-1565C0?style=for-the-badge&logo=briefcase&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/IIIT-Sri%20City%20Alumni-FF6F00?style=for-the-badge&logo=graduation-cap&logoColor=white)
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sneha-srinivas29&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sneha-srinivas29&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 ---
@@ -137,13 +136,13 @@ portfolio  : https://portofolio-nine-gules.vercel.app/
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sneha-srinivas29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sneha-srinivas29&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=764ba2&icon_color=667eea" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-srinivas29&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-srinivas29&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=764ba2" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-srinivas29&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sneha-srinivas29&theme=default&hide_border=true&ring=764ba2&fire=667eea&currStreakLabel=764ba2" />
 </div>
 
 ---
@@ -151,7 +150,7 @@ portfolio  : https://portofolio-nine-gules.vercel.app/
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sneha-srinivas29&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sneha-srinivas29&theme=github&hide_border=true&area=true&color=764ba2&line=667eea&point=764ba2" />
 </div>
 
 ---
@@ -159,7 +158,7 @@ portfolio  : https://portofolio-nine-gules.vercel.app/
 <div align="center">
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" />
 
 <sub>⭐ If you find my work interesting, consider starring some repos! It means a lot 😊</sub>
 
